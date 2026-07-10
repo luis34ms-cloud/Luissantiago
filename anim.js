@@ -75,7 +75,7 @@ Nombre: Luis Antonio Mendoza Santiago
 Empresa: Luis Santiago
 Teléfono: +52 951 462 0934
 Correo: Luis34ms@institutosanpablo.edu.mx
-Web: https://duckling.com
+Web: https://luis34ms-cloud.github.io/Luissantiago/
             `.trim();
 
             // Usar clipboard API con fallback
